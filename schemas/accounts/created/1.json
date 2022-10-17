@@ -15,7 +15,10 @@
           "type": "string"
         },
         "full_name": {
-          "type": "string"
+          "type": [
+            "string",
+            "null"
+          ]
         },
         "role": {
           "type": "string"
