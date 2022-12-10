@@ -21,10 +21,10 @@
           "type": "string"
         },
         "credit": {
-          "type": "number"
+          "type": "string"
         },
         "debit": {
-          "type": "number"
+          "type": "string"
         }
       },
       "required": [
