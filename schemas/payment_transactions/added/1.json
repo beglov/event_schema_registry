@@ -15,7 +15,7 @@
           "type": "string"
         },
         "task_public_id": {
-          "type": "string"
+          "type": ["string", "null"]
         },
         "description": {
           "type": "string"
